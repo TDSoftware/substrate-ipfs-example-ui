@@ -1,7 +1,9 @@
 # Example Client for Substrate IPFS Integration
 
 This simple implementation shows how to easily integrate Substrate with IPFS features.
-The Pallet Implementation from TDSoftware allows us to fetch file URL on IPFS from a Substrate node via RPC.
+The [Pallet Implementation from TDSoftware](https://github.com/TDSoftware/substrate-ipfs) allows us to fetch file URL on IPFS from a Substrate node via RPC.
+
+👉 [How To Use Video](https://youtu.be/7nzcCdddxXI)
 
 ## Get Started
 
